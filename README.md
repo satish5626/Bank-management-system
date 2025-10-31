@@ -43,6 +43,6 @@ Hands-on experience with database integration using JDBC
 
 Built a fully functional GUI application
 
-Learned how to handle real-time transactions securely
+Learned how to handle real-time transactions securely.
 
 
